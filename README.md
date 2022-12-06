@@ -1,6 +1,6 @@
 # Navbar-Responsive-By-React
 
-🚀 **Generate your random texts in the fastest way!**
+🚀 **Why don't you use the pre-made menus in our git to design your own site**
 
 ![navbar](https://user-images.githubusercontent.com/109727844/206014935-21cd046b-01dc-4697-8edd-66fa83a9cc53.jpg)
 
