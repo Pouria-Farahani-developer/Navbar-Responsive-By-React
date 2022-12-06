@@ -4,7 +4,7 @@
 
 ![navbar](https://user-images.githubusercontent.com/109727844/206014935-21cd046b-01dc-4697-8edd-66fa83a9cc53.jpg)
 
-![lorem (1)](https://user-images.githubusercontent.com/109727844/206012848-b18d93cc-a580-43f2-b253-732ece3fecef.jpg)
+![navmobile](https://user-images.githubusercontent.com/109727844/206015343-f1dfe11c-3992-47d3-b02b-fc2c6d42524f.jpg)
 
 - 🔗 [Demo Project](https://pouria-farahani-developer.github.io/Navbar-Responsive-By-React/)
 
