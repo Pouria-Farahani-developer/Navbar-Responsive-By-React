@@ -6,6 +6,8 @@
 
 ![navmobile](https://user-images.githubusercontent.com/109727844/206015343-f1dfe11c-3992-47d3-b02b-fc2c6d42524f.jpg)
 
+![navmob](https://user-images.githubusercontent.com/109727844/206015703-d2741580-e953-4d77-b137-a5263dfe4d11.jpg)
+
 - 🔗 [Demo Project](https://pouria-farahani-developer.github.io/Navbar-Responsive-By-React/)
 
 - 👨‍💻 Developed by pouria farahani
