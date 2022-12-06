@@ -1,3 +1,25 @@
+# lorem-Ipsum-Generator
+
+🚀 **Generate your random texts in the fastest way!**
+
+![lorem](https://user-images.githubusercontent.com/109727844/206012547-9d1c18ab-0b49-425b-b7a8-079f401c942e.jpg)
+
+![lorem (1)](https://user-images.githubusercontent.com/109727844/206012848-b18d93cc-a580-43f2-b253-732ece3fecef.jpg)
+
+- 🔗 [Demo Project](https://pouria-farahani-developer.github.io/lorem-Ipsum-Generator/)
+
+- 👨‍💻 Developed by pouria farahani
+
+- 📆 Created - 2022-12-04
+
+- 🤖 Technologies Used - Html , css , js , React.js
+
+- 🕵🏻‍♀️ Role - Frontend
+
+- 📫 How to reach me : with my [instagram](https://www.instagram.com/pouria_farahani_developer) and [linkedin](https://www.linkedin.com/in/pouria-farahani-developer)
+
+## more details
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
