@@ -6,7 +6,7 @@
 
 ![lorem (1)](https://user-images.githubusercontent.com/109727844/206012848-b18d93cc-a580-43f2-b253-732ece3fecef.jpg)
 
-- 🔗 [Demo Project](https://pouria-farahani-developer.github.io/lorem-Ipsum-Generator/)
+- 🔗 [Demo Project](https://pouria-farahani-developer.github.io/Navbar-Responsive-By-React/)
 
 - 👨‍💻 Developed by pouria farahani
 
