@@ -1,4 +1,4 @@
-# lorem-Ipsum-Generator
+# Navbar-Responsive-By-React
 
 🚀 **Generate your random texts in the fastest way!**
 
